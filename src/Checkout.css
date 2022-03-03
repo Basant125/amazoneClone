@@ -1,0 +1,16 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  height: max-content;
+  background-color: #fff;
+}
+.checkout_title {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightgrey;
+  text-transform: capitalize;
+}
+.checkout_add {
+  width: 100%;
+  margin-bottom: 15px;
+}
